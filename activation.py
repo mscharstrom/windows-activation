@@ -3,4 +3,4 @@
 
 import os
 
-os.system("slmgr /ato" && "taskkill /F /IM wscript.exe")
+os.system("C:\Windows\System32\slmgr.vbs //b /ato")
